@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #659287;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading{
+    background-color: #88BDA4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.squares{
+    height: 575px;
+    width: 100%;
+    max-width: 800px;
+    background-color: #B1D3B9;
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+.squareb{
+    height: 62.5px;
+    width: 62.5px;
+    background-color: white;
+    border: 3px solid black;
+}
